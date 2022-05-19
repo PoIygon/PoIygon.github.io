@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "98.css": "^0.1.17"
+  },
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
